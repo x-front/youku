@@ -1,0 +1,110 @@
+{
+  "code": "20000",
+  "msg": "\u6210\u529f",
+  "result": {
+    "slider": {
+      "padding_top": 0,
+      "box_id": 717,
+      "box_type": "slider",
+      "contents": [
+        {
+          "jump_info": {
+            "show_id": "7760ccf08e8f11e6b32f",
+            "jump_type": "show"
+          },
+          "intro": "",
+          "pgc_uid": "",
+          "img": "http:\/\/r1.ykimg.com\/05100000596E2BEDADB912D5000A8581",
+          "title": "<\u519b\u5e08\u8054\u76df>\u7ec8\u4e8e\u7b49\u5230\u4f60\uff01\u53f8\u9a6c\u61ff\u548c\u5c0f\u59be\u540c\u5e8a\u5566",
+          "second_title": "",
+          "paid": 1,
+          "total_vv": "58\u4ebf",
+          "show_vurl": "http:\/\/v.youku.com\/v_show\/id_XMjgzNzM0NTYxNg==.html",
+          "show_app_vurl": "youku:\/\/play?vid=XMjgzNzM0NTYxNg==&source=youkuvipm&coodieid=",
+          "show_ios_vurl": "youku:\/\/jsbplay?source=mplaypage&vid=XMjgzNzM0NTYxNg==&showid=7760ccf08e8f11e6b32f&playlistid=",
+          "release_time": "2017-06-09 00:00:00"
+        },
+        {
+          "jump_info": {
+            "jump_type": "video",
+            "video_id": "XMjg4MzI3MDkyOA=="
+          },
+          "intro": "",
+          "pgc_uid": "",
+          "img": "http:\/\/r1.ykimg.com\/051000005967272FADC0B0B2D10473B3",
+          "title": "<\u5403\u5403\u7684\u7231>\u8521\u5eb7\u6c38\u5bfc\u6f14\u5904\u5973\u4f5c \u5c0fS\u88ab\u6797\u5fd7\u73b2\u72c2\u6247\u8033\u5149 ",
+          "second_title": "",
+          "paid": 1,
+          "show_vurl": "http:\/\/v.youku.com\/v_show\/id_XMjg4MzI3MDkyOA==.html",
+          "show_app_vurl": "youku:\/\/play?vid=XMjg4MzI3MDkyOA==&source=youkuvipm&coodieid=",
+          "show_ios_vurl": "youku:\/\/jsbplay?source=mplaypage&vid=XMjg4MzI3MDkyOA==&showid=316942&playlistid="
+        },
+        {
+          "jump_info": {
+            "jump_type": "video",
+            "video_id": "XMjg3MjIyNDM4OA=="
+          },
+          "intro": "",
+          "pgc_uid": "",
+          "img": "http:\/\/r1.ykimg.com\/051000005966F0EBADB912A05708EF1B",
+          "title": "<\u7f8e\u597d\u7684\u610f\u5916>\u9648\u5764\u6342\u70ed\u51b0\u7f8e\u4eba\u4e0e\u6842\u7eb6\u9541CP\u8d85\u767b\u5bf9",
+          "second_title": "",
+          "paid": 1,
+          "show_vurl": "http:\/\/v.youku.com\/v_show\/id_XMjg3MjIyNDM4OA==.html",
+          "show_app_vurl": "youku:\/\/play?vid=XMjg3MjIyNDM4OA==&source=youkuvipm&coodieid=",
+          "show_ios_vurl": "youku:\/\/jsbplay?source=mplaypage&vid=XMjg3MjIyNDM4OA==&showid=306818&playlistid="
+        },
+        {
+          "jump_info": {
+            "show_id": "efbfbd15efbfbd3f5bef",
+            "jump_type": "show"
+          },
+          "intro": "",
+          "pgc_uid": "",
+          "img": "http:\/\/r1.ykimg.com\/05100000596E2C348B6C58140C0E5FDB",
+          "title": "<\u6377\u5fb7\u5965\u7279\u66fc>\u53cd\u6d3e\u8d1d\u5229\u4e9a\u4e4b\u5b50\u4e0a\u7ebf \u542c\u5230\u7247\u5934\u66f2\u5c31\u71c3\u4e86",
+          "second_title": "",
+          "paid": 1,
+          "total_vv": "126\u4e07",
+          "show_vurl": "http:\/\/v.youku.com\/v_show\/id_XMjg3NjU4ODM0NA==.html",
+          "show_app_vurl": "youku:\/\/play?vid=XMjg3NjU4ODM0NA==&source=youkuvipm&coodieid=",
+          "show_ios_vurl": "youku:\/\/jsbplay?source=mplaypage&vid=XMjg3NjU4ODM0NA==&showid=efbfbd15efbfbd3f5bef&playlistid=",
+          "release_time": "2017-06-28 00:00:00"
+        },
+        {
+          "jump_info": {
+            "show_id": "e625d0e7bb6f11e6b16e",
+            "jump_type": "show"
+          },
+          "intro": "",
+          "pgc_uid": "",
+          "img": "http:\/\/r1.ykimg.com\/05100000596E2CBC8B3D06526B0D47C6",
+          "title": "<\u6625\u98ce\u5341\u91cc>7.21\u751c\u8650\u5f00\u64ad \u5468\u51ac\u96e8\u5f20\u4e00\u5c71\u5f15\u9886\u56de\u5fc6\u6740",
+          "second_title": "",
+          "paid": 1,
+          "total_vv": "762\u4e07",
+          "show_vurl": "http:\/\/www.youku.com\/show_page\/id_ze625d0e7bb6f11e6b16e.html",
+          "release_time": "2017-07-20 00:00:00"
+        },
+        {
+          "jump_info": {
+            "show_id": "4b9b41eed7d911e6967c",
+            "jump_type": "show"
+          },
+          "intro": "",
+          "pgc_uid": "",
+          "img": "http:\/\/r1.ykimg.com\/05100000595E688A8B3D0680E70618D1",
+          "title": "<\u4e58\u80dc\u72d9\u51fb>TVB\u5fc5\u8ffd\u8d4c\u795e\u5267 \u5343\u738b\u4e03\u6770\u5f00\u542f\u590d\u4ec7\u4e4b\u6218",
+          "second_title": "",
+          "paid": 1,
+          "total_vv": "3660\u4e07",
+          "show_vurl": "http:\/\/v.youku.com\/v_show\/id_XMjQ3MzE1NzE4OA==.html",
+          "show_app_vurl": "youku:\/\/play?vid=XMjQ3MzE1NzE4OA==&source=youkuvipm&coodieid=",
+          "show_ios_vurl": "youku:\/\/jsbplay?source=mplaypage&vid=XMjQ3MzE1NzE4OA==&showid=4b9b41eed7d911e6967c&playlistid=",
+          "release_time": "2017-06-29 00:00:00"
+        }
+      ],
+      "max_count": 6
+    }
+  }
+}

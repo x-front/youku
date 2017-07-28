@@ -1,0 +1,99 @@
+{
+  "today": [
+    {
+      "image": "../../../static/images/history/history01.jpg",
+      "title": "#大鱼FUN制造#李连杰、成龙、吴京等5大工夫举行频临死亡的拍戏经历",
+      "type": "电影",
+      "videoTime": "06:33",
+      "device": 2,
+      "finish": "100%",
+      "next": ""
+    },
+    {
+      "image": "../../../static/images/history/history02.jpg",
+      "title": "袁腾飞讲三国42 孙权立储",
+      "type": "教育",
+      "videoTime": "29:12",
+      "device": 2,
+      "finish": "83%",
+      "next": {
+        "title": "博人传 火影忍者新时代：第15话 火影忍者新时代",
+        "href": "fwaeef"
+      }
+    },
+    {
+      "image": "../../../static/images/history/history03.jpg",
+      "title": "河南一公务员被指上班睡觉不理办事群众 纪检部门介入",
+      "type": "资讯",
+      "videoTime": "01:11",
+      "device": 1,
+      "finish": "84%",
+      "next": {
+        "title": "博人传 火影忍者新时代：第15话 火影忍者新时代",
+        "href": "fwaeef"
+      }
+    }
+  ],
+  "week": [
+    {
+      "image": "../../../static/images/history/history04.jpg",
+      "title": "世上最残忍的武器 被打中的人只想马上死去",
+      "type": "纪实",
+      "videoTime": "07:18",
+      "device": 1,
+      "finish": "100%",
+      "next": ""
+    },
+    {
+      "image": "../../../static/images/history/history05.jpg",
+      "title": "第201700710期：《极限挑战3》孙红雷恐将永远离开马蓉微博发投票争取孩子抚养权",
+      "type": "娱乐",
+      "videoTime": "更新至07-14期",
+      "device": 1,
+      "finish": "76%",
+      "next": ""
+    },
+    {
+      "image": "../../../static/images/history/history06.jpg",
+      "title": "LOL英雄联盟2017洲际赛LPL战队高光时刻",
+      "type": "游戏",
+      "videoTime": "06:05",
+      "device": 2,
+      "finish": "100%",
+      "next": {
+        "title": "博人传 火影忍者新时代：第15话 火影忍者新时代",
+        "href": "fwaeef"
+      }
+    },
+    {
+      "image": "../../../static/images/history/history07.jpg",
+      "title": "MAC硬盘空间释放小技巧",
+      "type": "科技",
+      "videoTime": "03:59",
+      "device": 2,
+      "finish": "87%",
+      "next": ""
+    },
+    {
+      "image": "../../../static/images/history/history08.jpg",
+      "title": "极限挑战 第三季：第一期 导演独家揭秘 孙漂亮被劝退风波 170712",
+      "type": "综艺",
+      "videoTime": "更新至07-12期",
+      "device": 2,
+      "finish": "1%",
+      "next": ""
+    },
+    {
+      "image": "../../../static/images/history/history09.jpg",
+      "title": "博人传 火影忍者新时代：第14话 博人眼中的道路",
+      "type": "动漫",
+      "videoTime": "更新至15集",
+      "device": 1,
+      "finish": "1%",
+      "next": {
+        "title": "博人传 火影忍者新时代：第15话 火影忍者新时代",
+        "href": "fwaeef"
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "code": 10000,
+  "msg": "success",
+  "data": {
+    "status": "success",
+    "data": {
+      "header": {
+        "image_link": "",
+        "image": "",
+        "tags": [],
+        "jump_info": {
+          "type": "no_jump"
+        },
+        "title": "热点"
+      },
+      "box_id": 2801,
+      "is_youku_channel": 1,
+      "contents": {
+        "results": [
+          {
+            "subtitle": "甄宓迫司马懿歃血为盟",
+            "title": "军师联盟",
+            "url": "",
+            "image": "http://r1.ykimg.com/051000005964F0618B6C57EA410A1D01",
+            "video_id": "7760ccf08e8f11e6b32f",
+            "is_only_tudou_play": 0,
+            "published_at": "2017-07-12 12:30:07",
+            "intro": "",
+            "video_type": 2,
+            "is_mon_pay_video": 1,
+            "bg_color": "#ff0000",
+            "desc": "独播",
+            "type": 3,
+            "text_color": "#ffffff",
+            "pgc_uid": ""
+          },
+          {
+            "subtitle": "套路！节目组'诈'的艺兴心慌慌",
+            "title": "极限挑战3揭秘版",
+            "url": "",
+            "image": "http://r1.ykimg.com/0510000059656B46ADC0B0AECC0B0EE1",
+            "video_id": "XMjg4MzM1ODkyOA==",
+            "is_only_tudou_play": 0,
+            "published_at": "2017-07-12 12:30:07",
+            "intro": "07-12期",
+            "video_type": 1,
+            "is_mon_pay_video": 1,
+            "bg_color": "#ff660a",
+            "desc": "VIP",
+            "type": 4,
+            "text_color": "#ffffff",
+            "pgc_uid": ""
+          },
+          {
+            "subtitle": "最强闺蜜携手套路渣男前夫",
+            "title": "我的前半生",
+            "url": "",
+            "image": "http://r1.ykimg.com/051000005964F0B78B3D063D2B07BF42",
+            "video_id": "d9a314385d3911e7b197",
+            "is_only_tudou_play": 0,
+            "published_at": "2017-07-12 12:30:07",
+            "intro": "",
+            "video_type": 2,
+            "bg_color": "#ff0000",
+            "desc": "首播",
+            "type": 3,
+            "text_color": "#ffffff",
+            "pgc_uid": ""
+          },
+          {
+            "subtitle": "大张伟恋上贾玲'抛妻'寻新欢",
+            "title": "脑大洞开",
+            "url": "",
+            "image": "http://r1.ykimg.com/0510000059656417ADC0B0ADA70A3792",
+            "video_id": "XMjg4NDcxMTI2MA==",
+            "is_only_tudou_play": 0,
+            "published_at": "2017-07-12 12:30:07",
+            "intro": "07-12期",
+            "video_type": 1,
+            "is_mon_pay_video": 1,
+            "pgc_uid": ""
+          },
+          {
+            "subtitle": "刘备助攻五虎将练习骑术",
+            "title": "终极三国2017",
+            "url": "",
+            "image": "http://r1.ykimg.com/0510000059656456ADB912B1F00251B4",
+            "video_id": "efbfbd7c7befbfbd2eef",
+            "is_only_tudou_play": 0,
+            "published_at": "2017-07-12 12:30:08",
+            "intro": "",
+            "video_type": 2,
+            "is_mon_pay_video": 1,
+            "bg_color": "#ff0000",
+            "desc": "独播",
+            "type": 3,
+            "text_color": "#ffffff",
+            "pgc_uid": ""
+          },
+          {
+            "subtitle": "陈坤桂纶镁首演夫妻上演床咚",
+            "title": "美好的意外",
+            "url": "",
+            "image": "http://r1.ykimg.com/0510000059659647ADC0B09871086E84",
+            "video_id": "XMjg3MjIyNDM4OA==",
+            "is_only_tudou_play": 0,
+            "published_at": "2017-07-12 12:30:08",
+            "intro": "6.9",
+            "video_type": 1,
+            "is_mon_pay_video": 1,
+            "bg_color": "#ff660a",
+            "desc": "VIP",
+            "type": 4,
+            "text_color": "#ffffff",
+            "pgc_uid": ""
+          }
+        ]
+      },
+      "iphone_max_count": 6,
+      "box_type": {
+        "id": 1,
+        "name": "normal"
+      }
+    }
+  }
+}

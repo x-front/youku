@@ -1,0 +1,26 @@
+{
+  "error": 0,
+  "messge": "success",
+  "data": {
+    "uid": 376914433,
+    "lv": "lv 79",
+    "encodeUid": "UMTUwNzY1NzczMg==",
+    "username": "\u6211\u771ftm\u4e0d\u60f3\u7533\u8bf7\u53f7\u7684",
+    "avatar": {
+      "small": "https://static.youku.com/user/img/avatar/30/53.jpg",
+      "big": "https://static.youku.com/user/img/avatar/80/53.jpg",
+      "middle": "https://static.youku.com/user/img/avatar/50/53.jpg",
+      "large": "https://static.youku.com/user/img/avatar/310/53.jpg"
+    },
+    "ytid": 376914433,
+    "yid": 376914433,
+    "tid": 0,
+    "vip": {
+      "isFreeAdVip": false,
+      "isSilverVip": false,
+      "isGoldVip": true
+    },
+    "vipImage": "https://r1.ykimg.com/0510000058621A5867BC3D149B050E2E",
+    "vipTime": "2018-12-31"
+  }
+}
